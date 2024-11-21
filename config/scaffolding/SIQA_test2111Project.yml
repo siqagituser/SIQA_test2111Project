@@ -17,3 +17,8 @@ packages:
   gitUrl: https://github.webmethods.io/kvv
   gitUsername: kvv
   gitBranch: main
+- name: SIQA_OriginTest_OnPremAssets
+  gitServerName: siqagituser
+  gitUrl: https://github.com/vijetadixit
+  gitUsername: siqagituser
+  gitBranch: Test
